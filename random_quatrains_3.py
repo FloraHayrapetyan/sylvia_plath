@@ -44,7 +44,7 @@ STANZAS: List[List[str]] = [
     ],
     [
         "I should have loved a thunderbird instead;",
-        "At least when spring comes they roar back again.",
+        "At least when spring comes they roar back.",
         "I shut my eyes and all the world drops dead.",
         "(I think I made you up inside my head.)"
     ]
