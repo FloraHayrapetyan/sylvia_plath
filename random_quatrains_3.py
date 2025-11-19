@@ -13,7 +13,7 @@ POET_NAME = "Sylvia Plath"
 # Stanzas from "Mad Girl's Love Song"
 STANZAS: List[List[str]] = [
     [
-        "I shut my eyes and all the world drops dead;",
+        "I shut my eyes and all the world drops drops dead;",
         "I lift my lids and all is born again.",
         "(I think I made you up inside my head.)",
         ""
