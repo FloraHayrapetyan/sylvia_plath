@@ -48,6 +48,7 @@ stanzas = [
 
 def print_random_stanza():
     """Selects and prints a random stanza from the poem."""
+    print("Here's a beautiful stanza from 'Mad Girl's Love Song':\n")
     stanza = random.choice(stanzas)
     for line in stanza:
         print(line)
